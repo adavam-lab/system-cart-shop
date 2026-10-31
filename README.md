@@ -4,26 +4,9 @@ Welcome to the ADAVAM project! This repository contains a full-stack e-commerce 
 
 ## 📸 Galería del Proyecto
 
-<!-- Contenedor con scroll horizontal garantizado (Tabla) -->
-<table>
-  <tr>
-    <td><img src="img/Screenshot%202026-08-18%20at%203.43.03%E2%80%AFPM.png" width="450" /></td>
-    <td><img src="img/Screenshot%202026-08-18%20at%203.45.40%E2%80%AFPM.png" width="450" /></td>
-    <td><img src="img/Screenshot%202026-08-18%20at%203.46.28%E2%80%AFPM.png" width="450" /></td>
-    <td><img src="img/Screenshot%202026-08-18%20at%203.48.26%E2%80%AFPM.png" width="450" /></td>
-    <td><img src="img/Screenshot%202026-08-18%20at%203.48.39%E2%80%AFPM.png" width="450" /></td>
-    <td><img src="img/Screenshot%202026-08-18%20at%203.49.10%E2%80%AFPM.png" width="450" /></td>
-    <td><img src="img/Screenshot%202026-08-18%20at%2010.59.25%E2%80%AFPM.png" width="450" /></td>
-    <td><img src="img/Screenshot%202026-08-18%20at%2011.21.32%E2%80%AFPM.png" width="450" /></td>
-    <td><img src="img/Screenshot%202026-08-18%20at%2011.21.48%E2%80%AFPM.png" width="450" /></td>
-    <td><img src="img/Screenshot%202026-08-18%20at%2011.21.57%E2%80%AFPM.png" width="450" /></td>
-    <td><img src="img/Screenshot%202026-08-18%20at%2011.22.08%E2%80%AFPM.png" width="450" /></td>
-    <td><img src="img/Screenshot%202026-08-18%20at%2011.22.30%E2%80%AFPM.png" width="450" /></td>
-    <td><img src="img/Screenshot%202026-08-18%20at%2011.22.46%E2%80%AFPM.png" width="450" /></td>
-    <td><img src="img/Screenshot%202026-08-18%20at%2011.23.02%E2%80%AFPM.png" width="450" /></td>
-    <td><img src="img/Screenshot%202026-08-18%20at%2011.47.04%E2%80%AFPM.png" width="450" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="img/slide.gif" alt="Galería del proyecto ADAVAM" width="900" />
+</p>
 
 ---
 
